@@ -15,7 +15,3 @@ This project requires to Install Java, node and npm.
 ## Run tests
 
 `npm run test`
-
-## Report directory
-
-`/reports/html-reports/master-report.html`
